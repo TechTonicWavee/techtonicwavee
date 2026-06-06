@@ -1,4 +1,4 @@
-# Hi, I'm Priyanshu Raj 👋
+# Hi, I'm Priyanshu 👋
 
 ### AI Engineer | Machine Learning Enthusiast | Open Source Contributor
 
